@@ -1,0 +1,14 @@
+Este programa en Python permite gestionar un registro de ventas mensuales en tres departamentos: Ropa, Deportes y Juguetería. Para ello,
+se utiliza una matriz bidimensional de 12 filas por 3 columnas, donde cada fila corresponde a un mes del año y cada columna representa un departamento.
+Inicialmente, todas las ventas se encuentran en cero, pero el usuario puede modificarlas mediante un menú interactivo.
+
+El funcionamiento del programa se basa en cuatro métodos principales. El primero permite insertar o actualizar una venta en una posición específica 
+de la tabla, asignando un valor al mes y departamento indicados. El segundo sirve para buscar una venta, devolviendo el dato almacenado en la celda
+correspondiente.
+El tercero se utiliza para eliminar una venta, lo que en la práctica significa colocar un cero en el lugar indicado. 
+Finalmente, el cuarto método se encarga de mostrar toda la tabla de ventas en consola de manera ordenada,
+utilizando la librería pandas para dar formato en filas y columnas.
+
+El menú interactivo facilita la interacción con el usuario, ya que ofrece opciones para insertar, buscar,
+eliminar y mostrar ventas, además de la posibilidad de salir del programa. En conjunto, este sistema ejemplifica cómo trabajar con estructuras
+bidimensionales en Python, proporcionando una forma sencilla y clara de organizar, consultar y actualizar datos.
