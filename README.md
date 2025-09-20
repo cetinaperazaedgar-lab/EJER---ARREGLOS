@@ -1,2 +1,2 @@
 # EJER---ARREGLOS
-Contiene dos códigos, en lo cual genera un arreglo bidimensional y poniendo en practica lo aprendido.
+Contiene un código del lenguae python, en lo cual genera un arreglo bidimensional y poniendo en practica lo aprendido.
